@@ -11,6 +11,9 @@ public class Class01 {
         System.out.println(x+ y +z);
         //V3
         System.out.println("V# kodlari...");
+        //V4
+        System.out.println("V4 cslismalari..");
+
 
 
 
