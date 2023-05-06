@@ -12,7 +12,7 @@ public class Class01 {
         //V3
         System.out.println("V# kodlari...");
         //V4
-        System.out.println("V4 cslismalari..");
+        System.out.println("V4 calismalari..");
 
 
 
